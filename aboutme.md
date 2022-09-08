@@ -4,13 +4,20 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Suraaj Hasija    
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Hi 👋, I'm Suraaj Hasija
+========================
 
-What else do you need?
+Data Science Professional  
 
-### My story
+AI Practitioner | Analytics Ninja  
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+[Connect](https://www.linkedin.com/in/suraajhasija/) with me on LinkedIn to stay up to date with Data Science
+
+*   [Intro](#intro)
+*   [Profile](Suraaj- Data Scientist 6 Yrs Mastercard.pdf)
+*   [GitHub](https://github.com/gitsuraaj)
+*   [LinkedIn](https://www.linkedin.com/in/suraajhasija/)
+*   [Contact](mailto:mailbox.suraaj@gmail.com)
+
