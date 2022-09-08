@@ -39,7 +39,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/little-yoda.png"
+#title-img: "/assets/img/little-yoda.png"
 
 
 #####################################
@@ -52,17 +52,17 @@ social-network-links:
   email: "mailbox.suraaj@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: chunkysuraaj
-# github: gitsuraaj
+ github: gitsuraaj
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: in/suraajhasija
+  linkedin: suraajhasija
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: i_suraaj
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://www.linkedin.com/in/suraajhasija/"
+#url-pretty: "https://www.linkedin.com/in/suraajhasija/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
